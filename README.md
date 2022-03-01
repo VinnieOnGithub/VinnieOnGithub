@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VinnieOnGithub
+- 🌱 I’m currently learning C#
+- 📫 How to reach me Discord: Vinnie#5620
