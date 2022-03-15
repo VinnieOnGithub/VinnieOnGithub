@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VinnieOnGithub
-- 🌱 I’m currently learning C#
-- 📫 How to reach me Discord: Vinnie#5620
+- 👋 Hi, I’m @VinnieTheFox
+- 🌱 I’m currently learning C#, Html, Css and Python
+- 📫 How to reach me Discord: Vinnie#7497
